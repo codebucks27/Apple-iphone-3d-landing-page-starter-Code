@@ -41,10 +41,10 @@ There are 3 videos:
 
 ### External Libraries used in this project:
 
-[styled-components](https://styled-components.com/docs/advanced) <br />
-[GSAP](https://greensock.com/gsap/) <br />
-[@react-three/drei](https://www.npmjs.com/package/@react-three/drei) <br />
-[@react-three/fiber](https://www.npmjs.com/package/@react-three/fiber) <br />
+- [styled-components](https://styled-components.com/docs/advanced) <br />
+- [GSAP](https://greensock.com/gsap/) <br />
+- [@react-three/drei](https://www.npmjs.com/package/@react-three/drei) <br />
+- [@react-three/fiber](https://www.npmjs.com/package/@react-three/fiber) <br />
 
 # Getting Started with Create React App
 
