@@ -10,8 +10,8 @@ View Demo👇: <br />
 https://apple-iphone14.netlify.app/ <br />
 
 If you want to learn how to create it please follow below tutorial👇: <br />
-https://youtu.be/edr2o59Twrs <br />
-[![YouTube Video Views](https://img.shields.io/youtube/views/edr2o59Twrs?style=social)](https://youtu.be/edr2o59Twrs)<br />
+https://youtu.be/cT160dOzpGY <br />
+[![YouTube Video Views](https://img.shields.io/youtube/views/edr2o59Twrs?style=social)](https://youtu.be/cT160dOzpGY)<br />
 
 ### Images of The 3d landing page Website:
 
